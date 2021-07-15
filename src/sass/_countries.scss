@@ -1,0 +1,34 @@
+#country-input {
+  height: 30px;
+  width: 300px;
+  outline: 4px solid teal;
+}
+
+body {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+img {
+  height: 150px;
+  width: 200px;
+}
+
+.country-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 350px;
+}
+
+.country-info {
+  display: flex;
+  flex-direction: row;
+}
+
+.country-details {
+  display: flex;
+flex-direction: column;
+  margin-right: 10px;
+
+}
